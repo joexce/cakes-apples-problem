@@ -22,7 +22,7 @@ npm test
 ## Coverage Test & Result
 <hr>
 
-Coverate test
+Coverate test<br>
 ![Test](https://github.com/joexce/cakes-apples-problem/blob/main/test.png)
 <br>
 
