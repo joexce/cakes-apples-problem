@@ -19,5 +19,12 @@ npm test
 ```
 
 
-## Coverage Test Result
+## Coverage Test & Result
 <hr>
+
+Coverate test
+![Test](https://github.com/joexce/cakes-apples-problem/blob/main/test.png)
+<br>
+
+Result
+![Result](https://github.com/joexce/cakes-apples-problem/blob/main/result.png)
