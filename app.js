@@ -1,9 +1,9 @@
 const cakes = 20;
 const apples = 25;
-const persons = 9;
+const items = 9;
 
 function totalBox(){
-    return (cakes+apples)/persons;
+    return (cakes+apples)/items;
 }
 
 function itemInsideBox(){
@@ -21,7 +21,7 @@ function itemInsideBox(){
     return items;
 }
 
-console.log(`Ainun Have ${totalBox()}`);
+console.log(`Ainun Have ${totalBox()} Boxes`);
 console.log(`Ainun Have Cakes and Apple each box is ${JSON.stringify(itemInsideBox())}`)
 
 module.exports= {
